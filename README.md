@@ -31,9 +31,9 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr
 
 * Alex Yazmin Manzo Olguin
--Me gusta estudiar nuevos temas de todo tipo📖.
--Me gusta reirme por todo🤣.
--Ver series y peliculas infantiles👧🏻.
+- Me gusta estudiar nuevos temas de todo tipo📖.
+- Me gusta reirme por todo🤣.
+- Ver series y peliculas infantiles👧🏻.
 
 
 ## Mi imagen
