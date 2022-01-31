@@ -29,3 +29,10 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Alex Yazmin Manzo Olguin
+-me gusta estudiar nuevos temas de todo tipo.📖
+-me gusta reirme por todo🤣
+-ver series y peliculas infantiles👧🏻
+![Presentacion](img/image001.png)
+
